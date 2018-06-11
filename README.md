@@ -1,2 +1,3 @@
 # hello-world
-Tutorial
+
+Just following GIThub *Hello World* tutorial...
